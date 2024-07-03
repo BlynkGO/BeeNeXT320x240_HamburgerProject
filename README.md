@@ -8,4 +8,12 @@
 ![Hamburger](image/GoLf_Hamburger_02.png)  
 [Visit the Facebook Group Post](https://web.facebook.com/groups/1314040465469106/permalink/2468297510043390/)
 
+## คุณสมบัติโปรเจค 
+- สร้าง Animation แฮมเบอเกอ และ น้องแมววิ่ง  
+อย่างง่ายด้วย SoftTimer
+- ลูกค้าเลือก option เพื่อรวมราคาก่อน ชำระ QRCode อย่างง่าย  
+- จำยอดเงินในระบบได้ แม้มีการ reset จอ
+- ออกแบบสำหรับจอ BeeNeXT 320x240pixel  
+ 
+  
 @03/07/2567
